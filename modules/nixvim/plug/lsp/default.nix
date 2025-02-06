@@ -8,9 +8,6 @@
     lsp-format = {
       enable = true;
     };
-    clang-tools = {
-      enable = true;
-    };
     lsp = {
       enable = true;
       inlayHints = true;
